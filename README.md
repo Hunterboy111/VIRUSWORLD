@@ -23,5 +23,7 @@ ls
 
 python2 virusBD.py
 
+## Join Whatsapp Group ☞ https://chat.whatsapp.com/I5L16GM8TRvKsYnGxavl7i
+
 
 
